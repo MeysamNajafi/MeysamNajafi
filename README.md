@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello! I'm Meysam</h2>
+<img alt="Night Coding" src="./Hand%20Wave.gif" width='40' align="left"/><h2>Hello! I'm Meysam</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -6,7 +6,7 @@
 🌱 &nbsp;I'm on track for learning more about Machine Learning, and Game Developing.\
 ✉️ &nbsp;You can shoot me an email at meysamnajafifard@gmail.com! I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/MeysamNajafi/MeysamNajafi/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/MeysamNajafi/MeysamNajafi/master/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
