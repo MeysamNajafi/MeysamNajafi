@@ -4,7 +4,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm a full-stack web developer\
-🌱 &nbsp;I'm on track for learning more about Machine Learning, and Game Developing.\
 ✉️ &nbsp;You can shoot me an email at meysamnajafifard@gmail.com! I'll try to respond as soon as I can.
 
 
